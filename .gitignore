@@ -1,0 +1,28 @@
+# Node
+**/coverage
+**/dist
+**/tpm
+**/out-tsc
+**/node_modules
+
+# IDE - Jetbrains #
+**/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+
+# IDE - VSCode
+**/.vscode/*
+!**/.vscode/settings.json
+!**/.vscode/tasks.json
+!**/.vscode/launch.json
+!**/.vscode/extensions.json
+
+#Secrets
+**/.env
+!**/.env-example
+
+# System Files
+**/.DS_Store
+**/Thumbs.db
+
