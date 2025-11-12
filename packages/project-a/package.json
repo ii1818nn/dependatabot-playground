@@ -2,7 +2,7 @@
   "name": "dependatabot-playground-a",
   "scripts": {},
   "dependencies": {
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "core-js": "3.45.1",
     "rimraf": "5.0.9"
   },
