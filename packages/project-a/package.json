@@ -3,7 +3,8 @@
   "scripts": {},
   "dependencies": {
     "lodash": "4.17.19",
-    "core-js": "3.45.1"
+    "core-js": "3.45.1",
+    "rimraf": "5.0.9"
   },
   "devDependencies": {}
 }
