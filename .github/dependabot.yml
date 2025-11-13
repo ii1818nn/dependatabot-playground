@@ -1,11 +1,6 @@
 version: 2
 
 updates:
-  - package-ecosystem: npm
-    directory: "packages/project-c"
-    ignore:
-      - dependency-name: "express"
-
   - package-ecosystem: "npm"
     directories:
       - "packages/*"
