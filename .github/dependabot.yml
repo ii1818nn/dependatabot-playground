@@ -11,15 +11,14 @@ updates:
     ignore:
       - dependency-name: "@types/node"
     groups:
-      dependencies:
+      "minor-patch":
         update-types:
           - "minor"
           - "patch"
-      dependencies-major:
+      "major":
         update-types:
           - "major"
-      dev-dependencies-eslint:
+      "eslint family":
         patterns:
           - "eslint"
-          - "neostandard"
-          - "@stylistic/*"
+          - "eslint-plugin-react"
