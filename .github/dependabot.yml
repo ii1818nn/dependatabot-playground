@@ -11,7 +11,7 @@ updates:
     ignore:
       - dependency-name: "@types/node"
     groups:
-      "minor-patch":
+      "minor/patch":
         update-types:
           - "minor"
           - "patch"
